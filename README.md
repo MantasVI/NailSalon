@@ -1,4 +1,3 @@
-https://mantasvi.github.io/Drauges-website/
 
 # Nails By Kyu Website
 
